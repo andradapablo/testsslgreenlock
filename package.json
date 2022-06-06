@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/andradapablo/testsslgreenlock#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "greenlock-express": "^4.0.3"
   }
 }
