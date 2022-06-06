@@ -6,6 +6,9 @@ require('greenlock-express')
     .init({
         packageRoot: __dirname,
 
+        // contact for security and critical bug notices
+        maintainerEmail: "andradapablo@gmail.com",
+
         // where to look for configuration
         configDir: './greenlock.d',
 
